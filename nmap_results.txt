@@ -1,0 +1,403 @@
+# Nmap 7.95 scan initiated Thu May 29 18:09:37 2025 as: /usr/lib/nmap/nmap -Pn -p 80,2222,8080,3000,8086,8010,8000,1025,8082,8334,8333,5000,85,9191,70,110,2223,82,81,8001,50000,8083,8081,8888,84,6004,50001,1024,8084,83,86,60001,8090,8200,91,2001,9000,90,2000,88,89,111,6666,5001,8182,9015,8002,8006,11000,6003,10000,6002,6001,9200,60010,50050,1099,9014,9008,9010,9002,9009,9012,9016,9006,9005,9001,9018,8089 -oN nmap_results.txt 37.29.83.0/24
+Nmap scan report for 37.29.83.0
+Host is up.
+All 69 scanned ports on 37.29.83.0 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.1
+Host is up (21s latency).
+Not shown: 64 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2001/tcp closed dc
+5001/tcp closed commplex-link
+8200/tcp closed trivnet1
+9010/tcp closed sdr
+9191/tcp closed sun-as-jpda
+
+Nmap scan report for 37.29.83.2
+Host is up.
+All 69 scanned ports on 37.29.83.2 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.3
+Host is up (21s latency).
+Not shown: 64 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2001/tcp closed dc
+5001/tcp closed commplex-link
+8200/tcp closed trivnet1
+9010/tcp closed sdr
+9191/tcp closed sun-as-jpda
+
+Nmap scan report for 37.29.83.4
+Host is up.
+All 69 scanned ports on 37.29.83.4 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.5
+Host is up (21s latency).
+Not shown: 66 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2001/tcp closed dc
+5001/tcp closed commplex-link
+9191/tcp closed sun-as-jpda
+
+Nmap scan report for 37.29.83.6
+Host is up (21s latency).
+Not shown: 65 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2001/tcp closed dc
+5001/tcp closed commplex-link
+9010/tcp closed sdr
+9191/tcp closed sun-as-jpda
+
+Nmap scan report for 37.29.83.7
+Host is up (21s latency).
+Not shown: 66 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2001/tcp closed dc
+5001/tcp closed commplex-link
+9191/tcp closed sun-as-jpda
+
+Nmap scan report for 37.29.83.8
+Host is up.
+All 69 scanned ports on 37.29.83.8 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.9
+Host is up.
+All 69 scanned ports on 37.29.83.9 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.10
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2001/tcp closed dc
+5001/tcp closed commplex-link
+
+Nmap scan report for 37.29.83.11
+Host is up.
+All 69 scanned ports on 37.29.83.11 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.12
+Host is up.
+All 69 scanned ports on 37.29.83.12 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.13
+Host is up.
+All 69 scanned ports on 37.29.83.13 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.14
+Host is up.
+All 69 scanned ports on 37.29.83.14 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.15
+Host is up.
+All 69 scanned ports on 37.29.83.15 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.16
+Host is up.
+All 69 scanned ports on 37.29.83.16 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.17
+Host is up.
+All 69 scanned ports on 37.29.83.17 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.18
+Host is up.
+All 69 scanned ports on 37.29.83.18 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.19
+Host is up.
+All 69 scanned ports on 37.29.83.19 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.20
+Host is up.
+All 69 scanned ports on 37.29.83.20 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.21
+Host is up.
+All 69 scanned ports on 37.29.83.21 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.22
+Host is up.
+All 69 scanned ports on 37.29.83.22 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.23
+Host is up.
+All 69 scanned ports on 37.29.83.23 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.24
+Host is up.
+All 69 scanned ports on 37.29.83.24 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.25
+Host is up.
+All 69 scanned ports on 37.29.83.25 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.26
+Host is up.
+All 69 scanned ports on 37.29.83.26 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.27
+Host is up.
+All 69 scanned ports on 37.29.83.27 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.28
+Host is up.
+All 69 scanned ports on 37.29.83.28 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.29
+Host is up.
+All 69 scanned ports on 37.29.83.29 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.30
+Host is up.
+All 69 scanned ports on 37.29.83.30 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.31
+Host is up.
+All 69 scanned ports on 37.29.83.31 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.32
+Host is up.
+All 69 scanned ports on 37.29.83.32 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.33
+Host is up (0.047s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 37.29.83.34
+Host is up.
+All 69 scanned ports on 37.29.83.34 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.35
+Host is up.
+All 69 scanned ports on 37.29.83.35 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.36
+Host is up (0.13s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 37.29.83.37
+Host is up (0.046s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 37.29.83.38
+Host is up (21s latency).
+Not shown: 60 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+84/tcp   closed ctf
+85/tcp   closed mit-ml-dev
+2001/tcp closed dc
+2223/tcp closed rockwell-csp2
+5001/tcp closed commplex-link
+8200/tcp closed trivnet1
+9002/tcp closed dynamid
+9010/tcp closed sdr
+9191/tcp closed sun-as-jpda
+
+Nmap scan report for 37.29.83.39
+Host is up.
+All 69 scanned ports on 37.29.83.39 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.40
+Host is up.
+All 69 scanned ports on 37.29.83.40 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.41
+Host is up (21s latency).
+Not shown: 62 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2001/tcp closed dc
+2223/tcp closed rockwell-csp2
+5001/tcp closed commplex-link
+8200/tcp closed trivnet1
+9002/tcp closed dynamid
+9010/tcp closed sdr
+9191/tcp closed sun-as-jpda
+
+Nmap scan report for 37.29.83.42
+Host is up (0.045s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+110/tcp open  pop3
+
+Nmap scan report for 37.29.83.43
+Host is up (21s latency).
+Not shown: 59 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+84/tcp    closed ctf
+85/tcp    closed mit-ml-dev
+2001/tcp  closed dc
+2223/tcp  closed rockwell-csp2
+5001/tcp  closed commplex-link
+8200/tcp  closed trivnet1
+9002/tcp  closed dynamid
+9010/tcp  closed sdr
+9191/tcp  closed sun-as-jpda
+60010/tcp closed unknown
+
+Nmap scan report for 37.29.83.44
+Host is up.
+All 69 scanned ports on 37.29.83.44 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.45
+Host is up.
+All 69 scanned ports on 37.29.83.45 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.46
+Host is up (21s latency).
+Not shown: 62 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2001/tcp closed dc
+2223/tcp closed rockwell-csp2
+5001/tcp closed commplex-link
+8200/tcp closed trivnet1
+9002/tcp closed dynamid
+9010/tcp closed sdr
+9191/tcp closed sun-as-jpda
+
+Nmap scan report for 37.29.83.47
+Host is up.
+All 69 scanned ports on 37.29.83.47 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.48
+Host is up.
+All 69 scanned ports on 37.29.83.48 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.49
+Host is up (0.055s latency).
+Not shown: 66 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+8083/tcp open  us-srv
+8084/tcp open  websnp
+
+Nmap scan report for 37.29.83.50
+Host is up (0.048s latency).
+Not shown: 65 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+80/tcp   open   http
+2001/tcp closed dc
+5001/tcp closed commplex-link
+9191/tcp closed sun-as-jpda
+
+Nmap scan report for 37.29.83.51
+Host is up (0.048s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for 37.29.83.52
+Host is up (21s latency).
+Not shown: 68 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2001/tcp closed dc
+
+Nmap scan report for 37.29.83.53
+Host is up.
+All 69 scanned ports on 37.29.83.53 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.54
+Host is up.
+All 69 scanned ports on 37.29.83.54 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.55
+Host is up (21s latency).
+Not shown: 67 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2001/tcp closed dc
+5001/tcp closed commplex-link
+
+Nmap scan report for 37.29.83.56
+Host is up (21s latency).
+Not shown: 63 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2001/tcp closed dc
+2223/tcp closed rockwell-csp2
+5001/tcp closed commplex-link
+8200/tcp closed trivnet1
+9010/tcp closed sdr
+9191/tcp closed sun-as-jpda
+
+Nmap scan report for 37.29.83.57
+Host is up.
+All 69 scanned ports on 37.29.83.57 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.58
+Host is up.
+All 69 scanned ports on 37.29.83.58 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.59
+Host is up (21s latency).
+Not shown: 62 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+2001/tcp closed dc
+2223/tcp closed rockwell-csp2
+5001/tcp closed commplex-link
+8200/tcp closed trivnet1
+9002/tcp closed dynamid
+9010/tcp closed sdr
+9191/tcp closed sun-as-jpda
+
+Nmap scan report for 37.29.83.60
+Host is up.
+All 69 scanned ports on 37.29.83.60 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.61
+Host is up.
+All 69 scanned ports on 37.29.83.61 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.62
+Host is up.
+All 69 scanned ports on 37.29.83.62 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
+
+Nmap scan report for 37.29.83.63
+Host is up.
+All 69 scanned ports on 37.29.83.63 are in ignored states.
+Not shown: 69 filtered tcp ports (no-response)
